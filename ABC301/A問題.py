@@ -1,3 +1,4 @@
+# https://atcoder.jp/contests/abc301/tasks/abc301_a
 n = int(input())
 s = input()
 if s.count("T")<s.count("A"):
