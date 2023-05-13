@@ -1,3 +1,4 @@
+# https://atcoder.jp/contests/abc300/tasks/abc300_b
 # 愚直に一回ずつ回転させたやつを比較する全探索！
 # 横回転が少し難しいかも？
 
